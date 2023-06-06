@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/felix-masese-profile/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCVImEW-6KuTAl25b2GBA8FQ" target="_blank">
+  <a href="https://www.youtube.com/@techandgaming17" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
