@@ -67,6 +67,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :writing_hand: Some projects :
+ - <a href="https://simple-blog-app.onrender.com/" target="_blank">A simple blog application</a>
+  
  - <a href="https://jjfelix.github.io/travel-journal/" target="_blank">Travel Journal</a>
  
  - <a href="https://jjfelix.github.io/AirBnB-experiences/" target="_blank">AirBnB experiences</a>
