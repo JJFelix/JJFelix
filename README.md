@@ -64,6 +64,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JJFelix&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JJFelix&show_icons=true&locale=en" alt="JJFelix" /></p>
+
 ---
 
 ### :writing_hand: Some projects :
