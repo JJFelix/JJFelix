@@ -67,12 +67,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JJFelix&show_icons=true&locale=en" alt="JJFelix" /></p>
 
 ---
-
-### :writing_hand: Some projects :
- - <a href="https://simple-blog-app.onrender.com/" target="_blank">A simple blog application</a>
-  
- - <a href="https://jjfelix.github.io/travel-journal/" target="_blank">Travel Journal</a>
- 
- - <a href="https://jjfelix.github.io/AirBnB-experiences/" target="_blank">AirBnB experiences</a>
- 
- - <a href="https://jjfelix.github.io/my-bs-card/" target="_blank">Personal Business Card</a> 
